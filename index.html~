@@ -5,7 +5,9 @@
 	<title>Youtube HTML5 Game Dev Tutorial</title>
     </head> 
     <body style ="background:#303030">
-	<script src="nameThisToo.js"></script>
+<canvas id="canvasBg" width="800px" height="500" style="background:#FFFFFF; margin:100px; auto:0px;"></canvas>
+	<div id = "inner"></div>
+	<script src="game.js"></script>
 	
     </body>
 </html>
