@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+	<meta charset="utf-8">
+	<title>Youtube HTML5 Game Dev Tutorial</title>
+    </head> 
+    <body style ="background:#303030">
+	<script src="nameThisToo.js"></script>
+	
+    </body>
+</html>
